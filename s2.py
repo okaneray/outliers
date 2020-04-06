@@ -1,3 +1,21 @@
+# SQL ODEV
+
+# 3. Customers tablosunda hangi ülkeden kaçar tane müşteri olduğunu bulunuz.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #************ GOSTERIM SEKILLERI **************
 
 x1 = {'antricoat': 25.3, 'beef': 33.8, 'chicken': 22.7}
