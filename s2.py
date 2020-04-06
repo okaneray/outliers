@@ -1,7 +1,3 @@
-ASKDJASKKLSAF =1
-
-
-
 #************ GOSTERIM SEKILLERI **************
 
 x1 = {'antricoat': 25.3, 'beef': 33.8, 'chicken': 22.7}
